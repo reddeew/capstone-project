@@ -1,5 +1,5 @@
 # Udacity_Project-5 (capstone)
-Description:The  project deploys  welcome html using RollingUpdate 
+Description:The  project deploys  index html using RollingUpdate 
 
 *********************************************************************************************************************
 
@@ -21,15 +21,15 @@ AWS
 Steps:
 ========
 
-1)Test the  code using linting
+1)Using lint test the code
 
-2)Create an Docker image for this  Application
+2)create docker image 
 
 3)Upload the Docker image into  Docker Hub
 
 4)Create Kubernetes cluster in AWS 
 
-5)Create loadbalancer and web hosts for  high availability
+5)Create loadbalancer and web hosts for HA
 
 6)Deploy container
 
@@ -43,6 +43,6 @@ Steps:
 
 URLS -- URL.txt  
 
-contains  github and   website url
+contains  github & website url
 
 Screenshots available in Screenshots folder

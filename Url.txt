@@ -1,2 +1,3 @@
-Repo : https://github.com/reddeew/
-Website URL : http://http://a6d306909332f4b08bea060643e577f8-1069443531.us-east-1.elb.amazonaws.com
+Repo : https://github.com/reddeew/capstone-project
+
+Website URL : http://a6d306909332f4b08bea060643e577f8-1069443531.us-east-1.elb.amazonaws.com
