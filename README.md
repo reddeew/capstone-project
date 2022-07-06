@@ -1,9 +1,9 @@
 # Udacity_Project-5 (capstone)
-Description:The  project deploys  index.html  using RollingUpdate 
+Description:The  project deploys  welcome html using RollingUpdate 
 
 *********************************************************************************************************************
 
-Technologies Used:
+Technologies
 ===================
 
 Docker 
@@ -33,7 +33,7 @@ Steps:
 
 6)Deploy container
 
-7)Update the  web page  (Changed the version, Colour, background and format )
+7)Update the  web page  (changed text)
 
 8)Using RollingUpdate method  deployed  this  app  again 
 
